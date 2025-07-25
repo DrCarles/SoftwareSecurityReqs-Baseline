@@ -1,6 +1,6 @@
 ## 🔑 User Authentication Requirements
 
-This folder contains a set of functional cybersecurity requirements specifically related to user authentication
+This section contains a set of functional cybersecurity requirements specifically related to user authentication
 
 ⚠️ Before implementing authentication, consider whether your system truly needs to manage its own user database. In many cases, it's more secure and efficient to delegate authentication to an external identity provider (e.g., OAuth, SSO, or a managed IAM service). Building and maintaining your own user management system is complex and costly
 
