@@ -1,6 +1,6 @@
-# 🔐 Functional Cybersecurity Requirements & Specifications Baseline
+# 🔐 Software Security Requirements Baseline
 
-Welcome to the Functional Cybersecurity Requirements and Specifications Baseline repository
+Welcome to the Software Security Requirements Baseline Repository
 
 This repository is a compendium of cybersecurity requirements and specifications that I have collected, curated, and developed throughout my career in Product Security. It is meant to serve as a practical and adaptable foundation for embedding security into systems from the ground up
 
