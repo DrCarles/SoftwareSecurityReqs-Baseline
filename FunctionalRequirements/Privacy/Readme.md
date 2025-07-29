@@ -7,7 +7,7 @@ This section contains a set of cybersecurity requirements specifically related t
 
 Privacy requirements are designed to prevent the following common risks by default:
 
-1. Sensitive Data Leakage: Unauthorized exposure of personally identifiable information (PII), financial records, health data, or other sensitive user data
+1. Sensitive Data Leakage: Unauthorized exposure of personally identifiable information, financial records, health data, or other sensitive user data
 
 2. Regulatory Non-Compliance: Failure to meet legal obligations under data protection regulations such as GDPR, CCPA, HIPAA, or other local privacy laws. Non-compliance can result in fines, legal penalties, and reputational damage
 
@@ -17,10 +17,13 @@ Privacy requirements are designed to prevent the following common risks by defau
 
 5. Lack of Data Subject Control: Not supporting user rights such as access, correction, or deletion of personal data (e.g., “right to be forgotten”) can erode trust and lead to legal challenges
 
+6. Improper Data Disposal: Failing to securely delete or sanitize data at the end of its lifecycle can leave it recoverable by malicious actors, especially in shared or reused storage environments
+
 
 ### 📌 Requirements:
 - [Data minimization](FR-APP-PRV-001.md)
 - [Data lifecyle management](FR-APP-PRV-002.md)
 - [Right to erasure](FR-APP-PRV-003.md)
+- [Secure data disposal](FR-APP-PRV-004.md)
 
 _Refer to "Data at Rest" section for more technical requirements_

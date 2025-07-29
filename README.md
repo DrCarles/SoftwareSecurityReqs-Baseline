@@ -26,12 +26,11 @@ Explore the requirements in the /requirements directory, categorized by domains 
 
 - [Authentication](FunctionalRequirements/Authentication/Readme.md)
 - [Authorization](FunctionalRequirements/Authorization/Readme.md)
-- Data in Transit (🚧 Coming soon)
-- Input Validation (🚧 Coming soon)
-- Data at Rest (🚧 Coming soon)
+- [Data in Transit](FunctionalRequirements/DataInTransit/Readme.md) (🚧 Coming soon)
+- [Data Sanitization](FunctionalRequirements/DataSanitization/Readme.md) (🚧 Coming soon)
+- [Data at Rest](FunctionalRequirements/DataAtRest/Readme.md) (🚧 Coming soon)
 - [Privacy](FunctionalRequirements/Privacy/Readme.md)
-- Error Handling (🚧 Coming soon)
-- Logging & Monitoring (🚧 Coming soon)
+- [Error Handling](FunctionalRequirements/ErrorHandling/Readme.md) (🚧 Coming soon)
 - ...
 
 
