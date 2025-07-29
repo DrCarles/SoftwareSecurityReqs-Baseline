@@ -12,9 +12,9 @@ User authorization requirements are designed to prevent the following common ris
 
 
 ### 📌 Requirements:
-- [Enforcement point](FR-APP-AUZ-001.md)
+- [Business-logic enforcement](FR-APP-AUZ-001.md)
 - [Deny by default](FR-APP-AUZ-002.md)
-- [Permission structure](FR-APP-AUZ-003.md)
+- [Structured permissions](FR-APP-AUZ-003.md)
 - [Role-Based Access Control](FR-APP-AUZ-004.md)
 - [Secure configuration by default](FR-APP-AUZ-005.md)
 - [Log and traceability](FR-APP-AUZ-006.md)
