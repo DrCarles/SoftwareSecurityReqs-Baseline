@@ -21,7 +21,8 @@ Secure channels such as TLS not only provide confidentiality, but also support i
 
 
 ### 🧪 Testing tips 
-TBD
+
+🚧 Coming soon
 
 
 ### 🔗 References 

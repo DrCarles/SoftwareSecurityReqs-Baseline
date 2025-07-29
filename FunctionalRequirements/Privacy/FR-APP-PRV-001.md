@@ -14,6 +14,7 @@ The system must only collect, process, and store the minimum amount of sensitive
 
 
 ### 🧪 Testing tips 
+
 For each data input source, verify that the system only processes and stores the minimum necessary sensitive data. Ensure that unnecessary data is neither saved to the database nor written to log files. Review log entries to confirm that sensitive fields are properly removed, or obfuscated
 
 

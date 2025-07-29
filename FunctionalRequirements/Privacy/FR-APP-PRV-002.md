@@ -12,6 +12,7 @@ Sensitive data should be retained only for as long as necessary to meet the syst
 
 
 ### 🧪 Testing tips 
+
 For each type of data storage, verify that sensitive data is automatically deleted once it is no longer needed. Ensure the configured retention settings are being enforced correctly, and that expired data is properly purged from databases, backups, and logs
 
 

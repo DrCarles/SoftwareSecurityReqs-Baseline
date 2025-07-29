@@ -26,12 +26,12 @@ Explore the requirements categorized by domains such as:
 
 - [Authentication](FunctionalRequirements/Authentication/Readme.md)
 - [Authorization](FunctionalRequirements/Authorization/Readme.md)
-- [Data in Transit](FunctionalRequirements/DataInTransit/Readme.md) (🚧 Coming soon)
-- [Data Sanitization](FunctionalRequirements/DataSanitization/Readme.md) (🚧 Coming soon)
-- [Data at Rest](FunctionalRequirements/DataAtRest/Readme.md) (🚧 Coming soon)
+- [Data in Transit](FunctionalRequirements/DataInTransit/Readme.md) 
+- [Data Sanitization](FunctionalRequirements/DataSanitization/Readme.md) 
+- [Data at Rest](FunctionalRequirements/DataAtRest/Readme.md) 
 - [Privacy](FunctionalRequirements/Privacy/Readme.md)
 - [Error Handling](FunctionalRequirements/ErrorHandling/Readme.md) (🚧 Coming soon)
-- ...
+- ... (🚧 Coming soon)
 
 
 ## 🤝 Contributing

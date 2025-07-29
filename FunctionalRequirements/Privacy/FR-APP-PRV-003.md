@@ -18,6 +18,7 @@ Under GDPR, the right to erasure gives individuals the ability to request the de
 
 
 ### 🧪 Testing tips 
+
 Review each data storage component to ensure that PII can be deleted or obfuscated without impacting system integrity. Verify that database schemas allow for null values in PII fields and that application logs do not contain any traces of sensitive personal data
 
 
