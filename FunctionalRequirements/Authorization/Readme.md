@@ -18,3 +18,8 @@ User authorization requirements are designed to prevent the following common ris
 - [Role-Based Access Control](FR-APP-AUZ-004.md)
 - [Secure configuration by default](FR-APP-AUZ-005.md)
 - [Log and traceability](FR-APP-AUZ-006.md)
+
+
+### ⬅️ Navigation 
+
+[Back](../../README.md)

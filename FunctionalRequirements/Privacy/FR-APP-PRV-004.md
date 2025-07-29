@@ -23,3 +23,8 @@ _No specifications have been defined for this requirement_
 ### 🔗 References 
 
 GDPR
+
+
+### ⬅️ Navigation 
+
+[Back](Readme.md)

@@ -27,3 +27,8 @@ Privacy requirements are designed to prevent the following common risks by defau
 - [Secure data disposal](FR-APP-PRV-004.md)
 
 _Refer to "Data at Rest" section for more technical requirements_
+
+
+### ⬅️ Navigation 
+
+[Back](../../README.md)

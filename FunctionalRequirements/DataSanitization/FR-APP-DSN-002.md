@@ -24,3 +24,8 @@ By sanitizing output, the application ensures that executable content such as HT
 ### 🔗 References 
 
 TBD
+
+
+### ⬅️ Navigation 
+
+[Back](Readme.md)

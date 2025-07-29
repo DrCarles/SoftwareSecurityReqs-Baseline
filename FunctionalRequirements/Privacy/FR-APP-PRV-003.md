@@ -24,3 +24,8 @@ Review each data storage component to ensure that PII can be deleted or obfuscat
 
 ### 🔗 References 
 GDPR
+
+
+### ⬅️ Navigation 
+
+[Back](Readme.md)

@@ -18,3 +18,8 @@ This section contains a set of functional cybersecurity requirements specificall
 - [Automatic log-off](FR-APP-AUT-007.md)
 - [Session invalidation](FR-APP-AUT-011.md)
 - [Auditing](FR-APP-AUT-008.md)
+
+
+### ⬅️ Navigation 
+
+[Back](../../README.md)

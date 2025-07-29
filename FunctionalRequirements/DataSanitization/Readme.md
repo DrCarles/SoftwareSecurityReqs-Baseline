@@ -22,3 +22,8 @@ Failing to properly sanitize data can lead to several serious security issues, i
 
 - [Input validation](FR-APP-DSN-001.md)
 - [Data sanitization](FR-APP-DSN-002.md)
+
+
+### ⬅️ Navigation 
+
+[Back](../../README.md)
