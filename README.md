@@ -22,7 +22,7 @@ Not all requirements in this repository will be directly applicable to every sys
 
 ## 📌 Getting Started
 
-Explore the requirements in the /requirements directory, categorized by domains such as:
+Explore the requirements categorized by domains such as:
 
 - [Authentication](FunctionalRequirements/Authentication/Readme.md)
 - [Authorization](FunctionalRequirements/Authorization/Readme.md)
