@@ -16,5 +16,5 @@ Data at rest is vulnerable to a variety of threats if not properly protected. Th
 
 ### 📌 Requirements:
 
-- [Data Encryption](FR-APP-DIT-001.md)
-- [Least Privilege](FR-APP-DIT-002.md)
+- [Data Encryption](FR-APP-DAR-001.md)
+- [Least Privilege](FR-APP-DAR-002.md)
