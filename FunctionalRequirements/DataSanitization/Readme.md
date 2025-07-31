@@ -21,7 +21,7 @@ Failing to properly sanitize data can lead to several serious security issues, i
 ### 📌 Requirements:
 
 - [Input validation](FR-APP-DSN-001.md)
-- [Data sanitization](FR-APP-DSN-002.md)
+- [Output sanitization](FR-APP-DSN-002.md)
 
 
 ### ⬅️ Navigation 
