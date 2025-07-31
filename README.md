@@ -31,6 +31,7 @@ Explore the requirements categorized by domains such as:
 - [Data at Rest](FunctionalRequirements/DataAtRest/Readme.md) 
 - [Privacy](FunctionalRequirements/Privacy/Readme.md)
 - [Error Handling](FunctionalRequirements/ErrorHandling/Readme.md) (🚧 Coming soon)
+- Bill of Materials (🚧 Coming soon)
 - ... (🚧 Coming soon)
 
 
