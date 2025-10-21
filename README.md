@@ -19,6 +19,7 @@ This repository aims to provide developers, architects, and security professiona
 
 Not all requirements in this repository will be directly applicable to every system! Security is highly context-dependent. You are encouraged to adapt or extend these requirements to fit the nature, architecture, and threat model of your own application or platform
 
+Check out the my [Software Security Requirements Tailoring Methodology](https://github.com/DrCarles/SoftwareSecurityReqs-Tailoring)
 
 ## 📌 Getting Started
 
