@@ -16,7 +16,8 @@ This section contains a set of functional cybersecurity requirements specificall
 - [Brute-force protection](FR-APP-AUT-006.md)
 - [User enumeration protection](FR-APP-AUT-009.md)
 - [Automatic log-off](FR-APP-AUT-007.md)
-- [Session invalidation](FR-APP-AUT-011.md)
+- [Session invalidation I](FR-APP-AUT-011.md)
+- [Session invalidation II](FR-APP-AUT-013.md)
 - [Auditing](FR-APP-AUT-008.md)
 
 
