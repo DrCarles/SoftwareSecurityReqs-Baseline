@@ -18,9 +18,9 @@ Data at rest is vulnerable to a variety of threats if not properly protected. Th
 
 ### 📌 Requirements:
 
-- [Backup and Restore](FR-APP-DAR-003.md)
-- [Data Encryption](FR-APP-DAR-001.md)
-- [Least Privilege](FR-APP-DAR-002.md)
+- [Backup and Restore](SR-APP-DAR-003.md)
+- [Data Encryption](SR-APP-DAR-001.md)
+- [Least Privilege](SR-APP-DAR-002.md)
 
 
 ### ⬅️ Navigation 

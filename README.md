@@ -9,7 +9,7 @@ This repository is a compendium of cybersecurity requirements and specifications
 
 This repository aims to provide developers, architects, and security professionals with:
 
-1. A baseline of well-structured functional security requirements
+1. A baseline of well-structured security requirements
 2. The rationale behind each requirement to clarify intent and value
 3. Supporting specifications and design guidance (when applicable)
 4. Testing tips to validate proper implementation
@@ -25,13 +25,13 @@ Check out the my [Software Security Requirements Tailoring Methodology](https://
 
 Explore the requirements categorized by domains such as:
 
-- [Authentication](FunctionalRequirements/Authentication/Readme.md)
-- [Authorization](FunctionalRequirements/Authorization/Readme.md)
-- [Data in Transit](FunctionalRequirements/DataInTransit/Readme.md) 
-- [Data Sanitization](FunctionalRequirements/DataSanitization/Readme.md) 
-- [Data at Rest](FunctionalRequirements/DataAtRest/Readme.md) 
-- [Privacy](FunctionalRequirements/Privacy/Readme.md)
-- [Error Handling](FunctionalRequirements/ErrorHandling/Readme.md) (🚧 Coming soon)
+- [Authentication](Requirements/Authentication/Readme.md)
+- [Authorization](Requirements/Authorization/Readme.md)
+- [Data in Transit](Requirements/DataInTransit/Readme.md) 
+- [Data Sanitization](Requirements/DataSanitization/Readme.md) 
+- [Data at Rest](Requirements/DataAtRest/Readme.md) 
+- [Privacy](Requirements/Privacy/Readme.md)
+- [Error Handling](Requirements/ErrorHandling/Readme.md) (🚧 Coming soon)
 - Bill of Materials (🚧 Coming soon)
 - ... (🚧 Coming soon)
 

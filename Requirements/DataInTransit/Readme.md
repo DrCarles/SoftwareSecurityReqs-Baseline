@@ -18,9 +18,9 @@ Data in transit is vulnerable to a variety of threats if not properly protected.
 
 ### 📌 Requirements:
 
-- [Limited exposure](FR-APP-DIT-001.md)
-- [Secure external channels](FR-APP-DIT-002.md)
-- [Secure internal channels](FR-APP-DIT-003.md)
+- [Limited exposure](SR-APP-DIT-001.md)
+- [Secure external channels](SR-APP-DIT-002.md)
+- [Secure internal channels](SR-APP-DIT-003.md)
 
 
 ### ⬅️ Navigation 
