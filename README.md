@@ -32,8 +32,8 @@ Explore the requirements categorized by domains such as:
 - [Safe Command Invocation](Requirements/SafeCommandInvocation/Readme.md)
 - [Data at Rest](Requirements/DataAtRest/Readme.md) 
 - [Privacy](Requirements/Privacy/Readme.md)
+- [Third-Party Components](Requirements/ThirdPartyComponents/Readme.md)
 - [Error Handling](Requirements/ErrorHandling/Readme.md) (🚧 Coming soon)
-- Bill of Materials (🚧 Coming soon)
 - ... (🚧 Coming soon)
 
 
