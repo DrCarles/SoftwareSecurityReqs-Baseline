@@ -24,8 +24,12 @@ Note that full-disk or hard drive encryption alone is not sufficient. While it p
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. Identify every place where sensitive data is stored, including databases, files, logs, caches and backups
+2. Access each storage directly (e.g. query the database with an administration tool, open the files, restore a backup) and check that sensitive data cannot be read in clear text
+3. Check that the encryption algorithms in use are approved by NIST (e.g. AES) and that deprecated algorithms or modes (e.g. DES, 3DES, RC4, ECB) are not used
+4. Check that encryption keys are not stored together with the encrypted data or in the source code, and that they are protected and rotated
 
-🚧 Coming soon
 
 
 ### 🔗 References 

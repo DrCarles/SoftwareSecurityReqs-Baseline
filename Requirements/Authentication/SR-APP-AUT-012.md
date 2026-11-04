@@ -18,7 +18,10 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-620: Unverified Password Change
+
+OWASP Authentication Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

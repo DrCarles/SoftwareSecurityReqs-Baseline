@@ -22,7 +22,10 @@ Suggested test steps for verifying this requirement:
 ⚠️ This requirement can be additionally tested using code inspection and static code analysis 
 
 ### 🔗 References 
-TBD
+CWE-798: Use of Hard-coded Credentials
+
+NIST SP 800-53 Rev. 5: AC-2 Account Management
+
 
 
 ### ⬅️ Navigation 

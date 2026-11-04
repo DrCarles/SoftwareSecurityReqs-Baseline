@@ -17,7 +17,10 @@ For each type of data storage, verify that sensitive data is automatically delet
 
 
 ### 🔗 References 
-TBD
+GDPR Article 5(1)(e): Storage limitation
+
+ISO/IEC 29100: Privacy framework
+
 
 
 ### ⬅️ Navigation 

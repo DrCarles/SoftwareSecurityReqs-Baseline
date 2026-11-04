@@ -15,7 +15,12 @@ This requirement should be tested through a default configuration review
 
 
 ### 🔗 References 
-TBD
+CWE-276: Incorrect Default Permissions
+
+NIST SP 800-53 Rev. 5: AC-5 Separation of Duties
+
+NIST SP 800-53 Rev. 5: AC-6 Least Privilege
+
 
 
 ### ⬅️ Navigation 

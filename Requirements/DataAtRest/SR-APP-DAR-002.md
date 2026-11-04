@@ -18,13 +18,19 @@ _No specifications have been defined for this requirement_
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. List the accounts used by the application and its components to access data (e.g. database users, service accounts, storage roles)
+2. Review the permissions granted to each account and check that they are limited to what its task requires
+3. Using each account, try to access data or perform operations outside its task (e.g. write with a read-only account, read other tables) and check that access is denied
+4. Check that administrator accounts are not used for normal operation
 
-🚧 Coming soon
 
 
 ### 🔗 References 
+CWE-272: Least Privilege Violation
 
-TBD
+NIST SP 800-53 Rev. 5: AC-6 Least Privilege
+
 
 
 ### ⬅️ Navigation 

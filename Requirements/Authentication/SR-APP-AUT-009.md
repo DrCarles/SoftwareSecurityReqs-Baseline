@@ -22,7 +22,14 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-204: Observable Response Discrepancy
+
+CWE-208: Observable Timing Discrepancy
+
+OWASP Authentication Cheat Sheet
+
+OWASP Web Security Testing Guide: Testing for Account Enumeration and Guessable User Account
+
 
 
 ### ⬅️ Navigation 

@@ -21,12 +21,24 @@ Secure channels such as TLS not only provide confidentiality, but also support i
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. Scan every external endpoint with a TLS testing tool (e.g. testssl.sh, sslyze) and check that only supported TLS versions (e.g. TLS 1.2 and 1.3) and strong cipher suites are enabled
+2. Check that server certificates are valid, issued by a trusted authority, not expired and match the hostname
+3. Make the application, acting as a client, connect to a server with an invalid or self-signed certificate (e.g. through an interception proxy) and check that the connection is rejected
+4. Check that unencrypted connections (e.g. plain HTTP) are rejected or redirected to a secure channel
+5. Where mutual TLS is enforced, connect without a client certificate and check that the connection is rejected
 
-🚧 Coming soon
 
 
 ### 🔗 References 
-TBD
+CWE-319: Cleartext Transmission of Sensitive Information
+
+CWE-295: Improper Certificate Validation
+
+NIST SP 800-52 Rev. 2: Guidelines for the Selection, Configuration, and Use of TLS Implementations
+
+OWASP Transport Layer Security Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

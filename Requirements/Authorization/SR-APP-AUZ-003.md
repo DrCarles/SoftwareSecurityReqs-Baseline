@@ -18,7 +18,10 @@ This requirement should be tested through an architecture review
 
 
 ### 🔗 References 
-TBD
+NIST SP 800-53 Rev. 5: AC-3 Access Enforcement
+
+OWASP Authorization Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

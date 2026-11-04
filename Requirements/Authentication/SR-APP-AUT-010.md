@@ -20,7 +20,8 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-549: Missing Password Field Masking
+
 
 
 ### ⬅️ Navigation 

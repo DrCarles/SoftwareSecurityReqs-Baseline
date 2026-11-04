@@ -24,7 +24,12 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-639: Authorization Bypass Through User-Controlled Key
+
+NIST SP 800-53 Rev. 5: IA-4 Identifier Management
+
+RFC 9562: Universally Unique IDentifiers (UUIDs)
+
 
 
 ### ⬅️ Navigation 

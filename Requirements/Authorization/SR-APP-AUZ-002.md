@@ -24,7 +24,12 @@ _No specifications have been defined for this requirement_
 
 
 ### 🔗 References 
-TBD
+CWE-285: Improper Authorization
+
+OWASP Top 10: Broken Access Control
+
+OWASP Authorization Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

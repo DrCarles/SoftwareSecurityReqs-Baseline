@@ -20,7 +20,12 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-308: Use of Single-factor Authentication
+
+NIST SP 800-63B: Digital Identity Guidelines - Authentication and Lifecycle Management
+
+OWASP Multifactor Authentication Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

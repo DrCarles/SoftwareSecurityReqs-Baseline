@@ -21,12 +21,24 @@ Secure channels such as TLS not only provide confidentiality, but also support i
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. Identify all communication channels between internal components (e.g. services, databases, message brokers, caches)
+2. Capture the traffic between components (e.g. with tcpdump or Wireshark) and check that it is encrypted
+3. Scan internal endpoints with a TLS testing tool (e.g. testssl.sh, sslyze) and check that only supported TLS versions and strong cipher suites are enabled
+4. Replace the certificate of an internal service with an invalid or self-signed one and check that the other components reject the connection
+5. Where mutual TLS is enforced, connect without a client certificate and check that the connection is rejected
 
-🚧 Coming soon
 
 
 ### 🔗 References 
-TBD
+CWE-319: Cleartext Transmission of Sensitive Information
+
+CWE-295: Improper Certificate Validation
+
+NIST SP 800-52 Rev. 2: Guidelines for the Selection, Configuration, and Use of TLS Implementations
+
+OWASP Transport Layer Security Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

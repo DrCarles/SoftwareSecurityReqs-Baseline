@@ -28,7 +28,12 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-778: Insufficient Logging
+
+NIST SP 800-53 Rev. 5: AU-3 Content of Audit Records
+
+OWASP Logging Cheat Sheet
+
 
 
 ### ⬅️ Navigation 
