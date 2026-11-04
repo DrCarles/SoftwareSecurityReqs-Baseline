@@ -29,6 +29,7 @@ Explore the requirements categorized by domains such as:
 - [Authorization](Requirements/Authorization/Readme.md)
 - [Data in Transit](Requirements/DataInTransit/Readme.md) 
 - [Data Sanitization](Requirements/DataSanitization/Readme.md) 
+- [Safe Command Invocation](Requirements/SafeCommandInvocation/Readme.md)
 - [Data at Rest](Requirements/DataAtRest/Readme.md) 
 - [Privacy](Requirements/Privacy/Readme.md)
 - [Error Handling](Requirements/ErrorHandling/Readme.md) (🚧 Coming soon)
