@@ -1,6 +1,6 @@
 ## 🔑 User Authorization Requirements
 
-This section contains a set of functional cybersecurity requirements specifically related to user authorization
+This section contains a set of security requirements specifically related to user authorization
 
 ### 🌩 Common Risks:
 
@@ -12,12 +12,12 @@ User authorization requirements are designed to prevent the following common ris
 
 
 ### 📌 Requirements:
-- [Business-logic enforcement](FR-APP-AUZ-001.md)
-- [Deny by default](FR-APP-AUZ-002.md)
-- [Structured permissions](FR-APP-AUZ-003.md)
-- [Role-Based Access Control](FR-APP-AUZ-004.md)
-- [Secure configuration by default](FR-APP-AUZ-005.md)
-- [Log and traceability](FR-APP-AUZ-006.md)
+- [Business-logic enforcement](SR-APP-AUZ-001.md)
+- [Deny by default](SR-APP-AUZ-002.md)
+- [Structured permissions](SR-APP-AUZ-003.md)
+- [Role-Based Access Control](SR-APP-AUZ-004.md)
+- [Secure configuration by default](SR-APP-AUZ-005.md)
+- [Log and traceability](SR-APP-AUZ-006.md)
 
 
 ### ⬅️ Navigation 

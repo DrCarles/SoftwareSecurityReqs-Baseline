@@ -21,10 +21,10 @@ Privacy requirements are designed to prevent the following common risks by defau
 
 
 ### 📌 Requirements:
-- [Data minimization](FR-APP-PRV-001.md)
-- [Data lifecyle management](FR-APP-PRV-002.md)
-- [Right to erasure](FR-APP-PRV-003.md)
-- [Secure data disposal](FR-APP-PRV-004.md)
+- [Data minimization](SR-APP-PRV-001.md)
+- [Data lifecyle management](SR-APP-PRV-002.md)
+- [Right to erasure](SR-APP-PRV-003.md)
+- [Secure data disposal](SR-APP-PRV-004.md)
 
 _Refer to "Data at Rest" section for more technical requirements_
 
