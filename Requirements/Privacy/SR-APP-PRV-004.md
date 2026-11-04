@@ -16,8 +16,13 @@ _No specifications have been defined for this requirement_
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. Delete a record containing sensitive data through the application
+2. Check directly in the database that the data is removed, and not only marked as deleted
+3. Check that copies of the data in logs, caches, temporary files and search indexes are also removed
+4. Check that backups containing the data expire according to the retention policy, or that the data is made unrecoverable (e.g. by deleting its encryption key)
+5. Review the procedure for decommissioning storage media and check that it follows a recognized media sanitization guideline (e.g. NIST SP 800-88)
 
-🚧 Coming soon
 
 
 ### 🔗 References 

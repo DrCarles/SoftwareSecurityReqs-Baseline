@@ -18,7 +18,14 @@ Suggested test steps for verifying this requirement (on a REST API):
 
 
 ### 🔗 References 
-TBD
+CWE-602: Client-Side Enforcement of Server-Side Security
+
+CWE-285: Improper Authorization
+
+OWASP Top 10: Broken Access Control
+
+OWASP Authorization Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

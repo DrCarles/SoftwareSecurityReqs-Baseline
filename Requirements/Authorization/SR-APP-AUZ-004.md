@@ -18,7 +18,10 @@ This requirement should be tested through an architecture review
 
 
 ### 🔗 References 
-TBD
+ANSI INCITS 359: Role Based Access Control
+
+NIST SP 800-53 Rev. 5: AC-3(7) Role-Based Access Control
+
 
 
 ### ⬅️ Navigation 

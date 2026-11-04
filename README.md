@@ -34,7 +34,6 @@ Explore the requirements categorized by domains such as:
 - [Privacy](Requirements/Privacy/Readme.md)
 - [Third-Party Components](Requirements/ThirdPartyComponents/Readme.md)
 - [Error Handling](Requirements/ErrorHandling/Readme.md)
-- ... (🚧 Coming soon)
 
 
 ## 🤝 Contributing

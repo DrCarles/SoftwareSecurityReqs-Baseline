@@ -32,7 +32,12 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-307: Improper Restriction of Excessive Authentication Attempts
+
+NIST SP 800-63B: Digital Identity Guidelines - Authentication and Lifecycle Management
+
+OWASP Authentication Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

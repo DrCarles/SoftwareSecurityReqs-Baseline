@@ -19,7 +19,10 @@ For each data input source, verify that the system only processes and stores the
 
 
 ### 🔗 References 
-TBD
+GDPR Article 5(1)(c): Data minimisation
+
+ISO/IEC 29100: Privacy framework
+
 
 
 ### ⬅️ Navigation 

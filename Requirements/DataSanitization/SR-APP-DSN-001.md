@@ -20,13 +20,19 @@ Validating inputs at the earliest point possible, preferably both on the client 
 
 
 ### 🧪 Testing tips 
+Suggested test steps for verifying this requirement:
+1. Identify all input sources, including forms, URL parameters, headers, cookies, API bodies, uploaded files and messages from other systems
+2. Send invalid values directly to the server, bypassing client-side validation (e.g. with an intercepting proxy such as OWASP ZAP or Burp Suite), and check that the server rejects them
+3. Send values with the wrong type, out-of-range length, unexpected format or special characters, and check that they are rejected
+4. Review the code and check that every input is validated against its expected format, type and constraints before being processed
 
-🚧 Coming soon
 
 
 ### 🔗 References 
+CWE-20: Improper Input Validation
 
-TBD
+OWASP Input Validation Cheat Sheet
+
 
 
 ### ⬅️ Navigation 

@@ -23,7 +23,10 @@ Suggested test steps for verifying this requirement:
 
 
 ### 🔗 References 
-TBD
+CWE-613: Insufficient Session Expiration
+
+OWASP Session Management Cheat Sheet
+
 
 
 ### ⬅️ Navigation 
