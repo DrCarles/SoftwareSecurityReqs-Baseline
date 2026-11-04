@@ -17,8 +17,6 @@ Validating inputs at the earliest point possible, preferably both on the client 
 
 - 📘 The application should perform strict input validation on all incoming data to ensure it meets expected formats, types, and constraints before processing
 
-- 📘 The application must blacklist dangerous characters and strings
-
 
 
 ### 🧪 Testing tips 

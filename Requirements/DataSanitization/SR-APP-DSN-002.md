@@ -12,7 +12,7 @@ By sanitizing output, the application ensures that executable content such as HT
 
 ### ⚙️ Specifications 
 
-- 📘 The application must properly escape blacklisted dangerous characters and strings
+- 📘 The application must encode output for the context where it is used (e.g. HTML body, HTML attribute, JavaScript, URL, CSS)
 
 
 
