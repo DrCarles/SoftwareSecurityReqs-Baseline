@@ -18,6 +18,7 @@ User authorization requirements are designed to prevent the following common ris
 - [Role-Based Access Control](SR-APP-AUZ-004.md)
 - [Secure configuration by default](SR-APP-AUZ-005.md)
 - [Log and traceability](SR-APP-AUZ-006.md)
+- [Trusted authorization claims](SR-APP-AUZ-007.md)
 
 
 ### ⬅️ Navigation 
