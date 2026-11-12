@@ -31,6 +31,7 @@ Explore the requirements categorized by domains such as:
 - [Data Sanitization](Requirements/DataSanitization/Readme.md) 
 - [Safe Command Invocation](Requirements/SafeCommandInvocation/Readme.md)
 - [Data at Rest](Requirements/DataAtRest/Readme.md) 
+- [Secrets Management](Requirements/SecretsManagement/Readme.md)
 - [Privacy](Requirements/Privacy/Readme.md)
 - [Third-Party Components](Requirements/ThirdPartyComponents/Readme.md)
 - [Error Handling](Requirements/ErrorHandling/Readme.md)
