@@ -3,7 +3,7 @@
 
 
 ### 💡 Rationale 
-Logging all relevant user management activities—such as account creation, deletion, login, and logout—is essential for security monitoring, auditing, and incident response. These logs provide a traceable record of actions that can help detect suspicious behaviour, support forensic investigations, and demonstrate compliance with security and privacy regulations
+Logging all relevant user management activities—such as account creation, deletion, password changes and lockouts—is essential for security monitoring, auditing, and incident response. These logs provide a traceable record of actions that can help detect suspicious behaviour, support forensic investigations, and demonstrate compliance with security and privacy regulations
 
 
 ### ⚙️ Specifications 

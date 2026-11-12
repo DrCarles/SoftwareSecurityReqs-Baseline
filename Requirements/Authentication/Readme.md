@@ -19,6 +19,7 @@ This section contains a set of security requirements specifically related to use
 - [Session invalidation I](SR-APP-AUT-011.md)
 - [Session invalidation II](SR-APP-AUT-013.md)
 - [Auditing](SR-APP-AUT-008.md)
+- [Authentication logging](SR-APP-AUT-014.md)
 
 
 ### ⬅️ Navigation 
